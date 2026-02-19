@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hi ! My name is Paulo</h1>
+<h1 align="left">Hello! I'm Paulo Daniel. Welcome to my profile!</h1>
 
 ###
 
